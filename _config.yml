@@ -6,12 +6,12 @@ color:
     - '#807048'
     - '#D04008'
     - '#D8C8A0'
-  brandStrength: 0.334459
-  lightness: 0.016047
-  rhythmicContrast: 0.499155
-  saturation: 0.506756
+  brandStrength: 1
+  lightness: 0.510979
+  rhythmicContrast: 1
+  saturation: 1
 cta: {}
-layout_spectrum: 0.200168
+layout_spectrum: 1
 name: lifeisrandom
 opengraph: {}
 purpose: {}
